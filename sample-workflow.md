@@ -184,17 +184,6 @@ Une fois fait, on peut donc tester la nouvelle configuration à l'aifr fr la com
 unattended-upgrades --debug --dry-run 
 ```
 
-## Connexion au soc
-
-Pour connceter les ordinateurs au soc, une documentation à déjà été créée. 
-
-[Connect to soc tpzf](https://telespazio-my.sharepoint.com/:w:/r/personal/fabrice_vermande_telespazio_com/_layouts/15/doc2.aspx?sourcedoc=%7BEA8F8867-52A6-4403-85C8-418CCC199229%7D&file=Install%20SOC-TPZFR.docx&action=default&mobileredirect=true)
-
-## Enregitrer le pc dans l'inventaire
-
-Après avoir réalisé les étapes listées ci-dessus, il faut enregistrer la machine dans l'inventaire.
-
-Une fois fait, le hardening est terminé
 
 
 
