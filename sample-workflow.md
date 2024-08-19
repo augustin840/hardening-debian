@@ -179,7 +179,7 @@ APT::Periodic::Unattended-Upgrade "1";
 APT::Periodic::Download-Upgradeable-Packages "1";
 ```
 
-Une fois fait, on peut donc tester la nouvelle configuration à l'aifr fr la commande suivante:
+Une fois fait, on peut donc tester la nouvelle configuration à l'aide de la commande suivante:
 ```bash
 unattended-upgrades --debug --dry-run 
 ```
